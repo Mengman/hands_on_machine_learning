@@ -1,2 +1,2 @@
-# hands_on_machine_learning
-examples and practices for book Hands-On Machine Learning with Scikit-Learn and TensorFlow
+# Hands on Machine Learning
+Examples and practices for book Hands-On Machine Learning with Scikit-Learn and TensorFlow
